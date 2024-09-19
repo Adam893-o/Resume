@@ -10,10 +10,14 @@
 	<p>asharifeh@hawk.iit.edu</p>
 	<h2>Education</h2>
 	<h3>Moraine Valley Community College Palos Hill, IL</h3>
+	<ul>
 		<li>Associates degree in Liberal Arts</li>
+	</ul>
 	<h3>Carl Sandburg High School</h3>
+	<ul>
 		<li>Member of Muslim Student Association Orland Park, IL</li>
 		<li>GPA 3.7/4.0 May 2021</li>
+	<ul>
 	<h2>Experiance</h2>
 	<h3>Volunteer</h3>
 	<ul>
