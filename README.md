@@ -17,7 +17,7 @@
 	<ul>
 		<li>Member of Muslim Student Association Orland Park, IL</li>
 		<li>GPA 3.7/4.0 May 2021</li>
-	<ul>
+	</ul>
 	<h2>Experiance</h2>
 	<h3>Volunteer</h3>
 	<ul>
