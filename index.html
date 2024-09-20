@@ -5,16 +5,13 @@
 	<title>Adam's Resume</title>
 </head>
 <body>
-	<h1>Adam Sharifeh</h1>
-	<p>Orland Park, IL</p>
-	<p>asharifeh@hawk.iit.edu</p>
+	<h1>Adam's Resume</h1>
+	<p>Written by Adam Sharifeh</p>
 	<h2>Education</h2>
-	<h3>Moraine Valley Community College Palos Hill, IL</h3>
 	<ul>
-		<li>Associates degree in Liberal Arts</li>
-	</ul>
-	<h3>Carl Sandburg High School</h3>
-	<ul>
+		<li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
+		<li>Bachelors's in Information Technology and Management in Illinois Institute Of Technology</li>
+	<h2>Carl Sandburg High School</h2>
 		<li>Member of Muslim Student Association Orland Park, IL</li>
 		<li>GPA 3.7/4.0 May 2021</li>
 	</ul>
@@ -23,7 +20,7 @@
 	<ul>
 		<li>Orland Park Prayer Center</li>
 		<li>Assisted in summer camp and counseling kids</li>
-		<li>Assist in a program's to help carry out general tasks Orlan Park IL September 2021-2024</li>
+		<li>Assist in a program's to help carry out general tasks Orland Park IL September 2021-2024</li>
 	</ul>
 	<h3>Skills</h3>
 	<ul>
@@ -34,5 +31,7 @@
 		<li>Studied Web Development</li>
 		<li>Graphic Design</li>
 	</ul>
+	<h2>Contact Information</h2>
+	<p>asharifeh@hawk.iit.edu</p>
 </body>
 </html>
