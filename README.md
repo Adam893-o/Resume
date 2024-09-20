@@ -31,9 +31,11 @@
 		<li>Excellent with socialising and communication</li>
 		<li>Excellent with organizing</li>
 		<li>Studied Web Development</li>
+		<li>Software skills in python</li>
 		<li>Graphic Design</li>
 	</ul>
 	<h2>Contact Information</h2>
+	<p><a herf="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signinLinkedln"</a></p>
 	<p>asharifeh@hawk.iit.edu</p>
 </body>
 </html>
