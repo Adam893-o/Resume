@@ -11,7 +11,9 @@
 	<ul>
 		<li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
 		<li>Bachelors's in Information Technology and Management in Illinois Institute Of Technology</li>
+	</ul>
 	<h2>Carl Sandburg High School</h2>
+	<ul>
 		<li>Member of Muslim Student Association Orland Park, IL</li>
 		<li>GPA 3.7/4.0 May 2021</li>
 	</ul>
