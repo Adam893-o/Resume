@@ -6,7 +6,6 @@
 </head>
 <body>
 	<h1>Adam's Resume</h1>
-	<p>Written by Adam Sharifeh</p>
 	<h2>Education</h2>
 	<ul>
 		<li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
@@ -35,7 +34,12 @@
 		<li>Graphic Design</li>
 	</ul>
 	<h2>Contact Information</h2>
+	<div>
 	<p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Linkedin</a></p>
 	<p>asharifeh@hawk.iit.edu</p>
+	</div>
+	<footer>
+	<p>Written By Adam Sharifeh</p>
+	</footer>
 </body>
 </html>
